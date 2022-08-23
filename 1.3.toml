@@ -1,0 +1,8 @@
+[[addition]]
+loc = "mods/BotanyPots-Forge-1.18.2-8.0.6.jar"
+url = "https://mediafiles.forgecdn.net/files/3944/657/BotanyPots-Forge-1.18.2-8.0.6.jar"
+sha256sum = "2b0a905ad127520f6c9e2d15f7cd39a8931e473713d281a6749fe32a4378fc92"
+
+[[deletion]]
+loc = "mods/BotanyPots-Forge-1.18.2-8.0.5.jar"
+sha256sum = "6f6c477b3d913a6aa14f2b57b2cc7a614231559d213aa3b8affb21688f78c655"
