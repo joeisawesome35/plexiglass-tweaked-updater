@@ -1,0 +1,14 @@
+[[addition]]
+loc = "mods/rsrequestify-2.2.0.jar"
+url = "https://mediafiles.forgecdn.net/files/3617/200/rsrequestify-2.2.0.jar"
+sha256sum = "3d0defb3171d39101bf7c2bfbf117579daa53e2ba8df030c37b3634a8c2a9578"
+
+[[addition]]
+loc = "mods/refinedstorageaddons-0.8.2.jar"
+url = "https://mediafiles.forgecdn.net/files/3713/972/refinedstorageaddons-0.8.2.jar"
+sha256sum = "87bb2fef3ddfaada6af5086cb7c4cf9429af5b9ca6f2417eaf928df3bba93828"
+
+[[addition]]
+loc = "mods/ExtraStorage-1.18.2-2.2.0.jar"
+url = "https://mediafiles.forgecdn.net/files/3888/609/ExtraStorage-1.18.2-2.2.0.jar"
+sha256sum = "ba695c79c711cbd2b796c752b9e02d3adffc95236215df790d605009f2ddb6d9"
